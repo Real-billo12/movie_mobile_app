@@ -1,7 +1,6 @@
-import { View, Text } from "react-native";
-import React from "react";
+import { Text, View } from "react-native";
 
-const MovieInfo = () => {
+const Details = () => {
 	return (
 		<View>
 			<Text>[id]</Text>
@@ -9,4 +8,4 @@ const MovieInfo = () => {
 	);
 };
 
-export default MovieInfo;
+export default Details;
