@@ -1,4 +1,5 @@
-import SearchBar from "@/components/SearchBar";
+
+import SearchBar from "@/components/searchBar";
 import { icons } from "@/constants/icons";
 import { images } from "@/constants/images";
 import { Image, ScrollView, View } from "react-native";
